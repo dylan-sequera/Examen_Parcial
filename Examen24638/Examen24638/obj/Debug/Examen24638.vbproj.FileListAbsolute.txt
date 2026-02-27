@@ -1,0 +1,12 @@
+C:\DYLAN 24638\Examen24638\Examen24638\bin\Debug\Examen24638.exe.config
+C:\DYLAN 24638\Examen24638\Examen24638\bin\Debug\Examen24638.exe
+C:\DYLAN 24638\Examen24638\Examen24638\bin\Debug\Examen24638.pdb
+C:\DYLAN 24638\Examen24638\Examen24638\bin\Debug\Examen24638.xml
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.vbprojAssemblyReference.cache
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.Form1.resources
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.Resources.resources
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.vbproj.GenerateResource.cache
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.vbproj.CoreCompileInputs.cache
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.exe
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.xml
+C:\DYLAN 24638\Examen24638\Examen24638\obj\Debug\Examen24638.pdb
